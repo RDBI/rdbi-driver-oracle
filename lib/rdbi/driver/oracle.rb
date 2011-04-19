@@ -98,7 +98,7 @@ class RDBI::Driver::Oracle < RDBI::Driver
                      :metadata => nil, # XXX - we can get something here
                      :default => nil,
                      :table => nil,
-                     :primary_key => nil,
+                     :primary_key => nil
                    )
                  end
 

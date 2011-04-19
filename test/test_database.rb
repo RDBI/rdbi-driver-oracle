@@ -1,5 +1,7 @@
 
 require 'test/unit'
+require 'rubygems'
+require 'rdbi-driver-oracle'
 
 class TestDatabase < Test::Unit::TestCase
 
