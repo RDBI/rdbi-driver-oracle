@@ -1,0 +1,1 @@
+require 'rdbi/driver/oracle'
