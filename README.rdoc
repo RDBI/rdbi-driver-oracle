@@ -1,0 +1,13 @@
+= rdbi-dbd-oracle
+
+The Oracle database driver for RDBI.
+
+== Requirements
+
+* Ruby 1.8.7+
+* "rdbi" gem
+
+== Copyright
+
+== Acknowledgements
+
